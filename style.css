@@ -1,0 +1,25 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: auto;
+    margin: auto; 
+}
+fieldset{
+background-color: rgb(240, 240, 240);
+}
+input{
+    border: 1px solid #32ce92
+}
+
+fieldset{
+     height: 180px;
+}
+
+div{
+    margin: 10px;
+}
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: 0%;
+}
